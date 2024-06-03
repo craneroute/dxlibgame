@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DxLib2DGame\\Project\\project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A18959F9-1915-4D25-9141-6A27D73AC506}|Project1.vcxproj|D:\\DxLib2DGame\\Project\\project3\\StaryDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A18959F9-1915-4D25-9141-6A27D73AC506}|Project1.vcxproj|solutionrelative:StaryDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18959F9-1915-4D25-9141-6A27D73AC506}|Project1.vcxproj|D:\\DxLib2DGame\\Project\\project3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A18959F9-1915-4D25-9141-6A27D73AC506}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaryDisplay.cpp",
+              "DocumentMoniker": "D:\\DxLib2DGame\\Project\\project3\\StaryDisplay.cpp",
+              "RelativeDocumentMoniker": "StaryDisplay.cpp",
+              "ToolTip": "D:\\DxLib2DGame\\Project\\project3\\StaryDisplay.cpp",
+              "RelativeToolTip": "StaryDisplay.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAE4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T09:35:05.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\DxLib2DGame\\Project\\project3\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\DxLib2DGame\\Project\\project3\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAkwKsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T08:24:39.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
